@@ -1,2 +1,3 @@
 # movie-backend
-my part of 2020 fall Advanced Database final assignment
+- a backend and a movie post image crawler of 2020 fall Advanced Database final assignment- a movie search app
+- Collabrator @JJYDXFS
